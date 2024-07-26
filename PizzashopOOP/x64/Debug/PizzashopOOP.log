@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Tutorials\1_moshrif course\session10\Code\PizzashopOOP\PizzashopOOP\Source.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PizzashopOOP.vcxproj -> D:\Tutorials\1_moshrif course\session10\Code\PizzashopOOP\x64\Debug\PizzashopOOP.exe
